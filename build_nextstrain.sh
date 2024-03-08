@@ -1,5 +1,15 @@
 #!/bin/bash
 
+
+# Script Name: Nextstrain Analysis Automation
+# Description: This script automates RNA virus sequence analysis using Nextstrain, 
+#             simplifying the process for researchers and public health personnel with limited bioinformatics capabilities.
+# Author: Julien A. Nguinkal
+# Contact: balogog87@gmail.com
+# Date: 2024-02-26
+# Version: 1.0
+
+
 # Help message displayed when the script is run without arguments
 usage() {
   echo "Usage: $0 [options]"
