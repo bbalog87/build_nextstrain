@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-
-
 """
 Script Name: Nextstrain Analysis Automation
 Description: This script automates RNA virus sequence analysis using Nextstrain, 
