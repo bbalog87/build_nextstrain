@@ -12,3 +12,8 @@ This script simplifies the Nextstrain analysis workflow by automating several st
 - Inferring ancestral traits
 - Exporting results for visualization in Nextstrain's Auspice visualization tool
 
+### Prerequisites
+
+- Python 3 is installed on your system.
+- ```Nextstrain``` and its ```augur``` pipeline installed.
+- Basic understanding of command-line operations.
